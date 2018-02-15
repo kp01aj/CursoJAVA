@@ -1,0 +1,9 @@
+
+Identificar error
+
+D:\Angel'Course\fileClass>java HolaMundo Como
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+        
+at HolaMundo.main(HolaMundo.java:7)
+
+D:\Angel'Course\fileClass>

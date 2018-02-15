@@ -1,0 +1,45 @@
+Curos POO - Programacion Orientada Objeto.
+Jeffry Gonzalez
+Basado en JAVA
+Comenzaremos con JAVA 
+-------------------------------------------
+
+Datos del Libro:
+  La logica.
+  Secuencia
+  Decisiones
+  Ciclos
+  Variables, constantes
+  
+Apuntes:
+Dia 1
+
+Atributo: Es una caracteristica identificativa de un ente informatico.
+
+Ente Informatico: Es todo aquello que podemos describir a traves de caracteristica.
+
+Datos: es un atributo codificado en terminos estendibles a un sistema de informacion, en codiciones manejables y comparables y de manera casi absoluta. 
+
+Campos: El nombre que se le coloca a un dato para identificar el atributo que esta desribiendo.
+
+Registro: 
+
+archivo:
+
+Base de datos:
+
+Informacion: 
+
+Informatica:
+
+Tarea
+
+ - Leer pagina 13
+
+
+Herramientas a Utilizar
+------------------------
+Editor de Texto
+  
+  
+

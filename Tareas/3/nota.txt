@@ -1,0 +1,5 @@
+TAREA:
+
+# Hacer los ejercicio 1, 2, y 3 del libro La esencia de la logica de programación - Omar Trejos Buriticá 
+
+En la pagina 33.

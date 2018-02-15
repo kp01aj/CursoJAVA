@@ -1,0 +1,66 @@
+Curos POO - Programacion Orientada Objeto.
+Jeffry Gonzalez
+Basado en JAVA
+Comenzaremos con JAVA 
+-------------------------------------------
+TEMA: Operadores logicos.
+-------------------------------------------
+
+Operadores logicos:
+===================
+    +   Suma
+    -   Resta
+    ^   Sacar Exponente de un numero
+    *   Multiplicacion
+    /   Division
+
+Declaracion de variables
+========================
+
+Ejemplo:
+
+    int X = 5;
+    int Z = 3;
+
+Ejemplo:
+
+    String resultado = (x > z)?"Retorna esto si es correcto" : "Retorna esto si es falso";
+
+
+Decisiones
+==========
+Ejemplo if simple:
+
+    if (x > z){
+
+        // Ejecucion
+
+    }
+
+
+    if (x == z){
+
+        // Ejecucion
+
+    }
+
+
+Ejemplo if Compuesto:
+
+    if (x > z){
+
+        // Ejecucion
+
+    }else[
+
+        // Ejecucion        
+
+    }
+
+Ejemplo if Ternario:
+
+    (x > z)?"Retorna esto si es correcto" : "Retorna esto si es falso";
+
+
+
+
